@@ -32,7 +32,6 @@ GitHub Stats
 ---
 ![Andrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=TigerSight&show_icons=true&theme=github_dark)
 
-Frequently Used Laguages
 
 
 <!---
