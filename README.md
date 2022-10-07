@@ -22,7 +22,7 @@ Laguages and Tools
 
 GitHub Stats
 ---
-![Andrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=TigerSight&show_icons=true&theme=github_dark)
+![Andrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=TigerSight&show_icons=true&theme=outrun)
 
 Batches
 ---
