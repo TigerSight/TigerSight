@@ -16,10 +16,7 @@ Laguages and Tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="amazonwebservices" alt="amazonwebservices" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  
-  
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp
   
 </div>
 
@@ -27,7 +24,9 @@ GitHub Stats
 ---
 ![Andrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=TigerSight&show_icons=true&theme=github_dark)
 
-
+Batches
+---
+[![@tigersight's Holopin board](https://holopin.io/api/user/board?user=tigersight)](https://holopin.io/@tigersight)
 
 <!---
 TigerSight/TigerSight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
